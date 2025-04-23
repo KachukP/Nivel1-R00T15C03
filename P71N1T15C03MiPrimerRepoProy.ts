@@ -45,11 +45,11 @@ El primero cuando armes la estructura, con las funciones exportadas e importadas
 El segundo cuando finalices el ejercicio.
 Para corroborar tus dos commits podés usar el comando git log y ver dos commits.
 */
-import{ObtenerTodo,ObtenerID}from"./P71N1T15C03MiPrimerRepo2";
+import{ObtenerTodo,ObtenerID}from"./P71N1T15C03MiPrimerRepo2Proy";
 function Principal() {
     console.log(ObtenerTodo());
     console.log(ObtenerID(1));
 }
 Principal();
-//EN VSC PARA EJECUTAR: npx tsx .\P71N1T15C03MiPrimerRepo.ts
-//EN TERMINAL GIT BASH PARA EJECUTAR: ts-node P71N1T15C03MiPrimerRepo.ts
+//EN VSC PARA EJECUTAR: npx tsx .\P71N1T15C03MiPrimerRepoProy.ts
+//EN TERMINAL GIT BASH PARA EJECUTAR: ts-node P71N1T15C03MiPrimerRepoProy.ts
