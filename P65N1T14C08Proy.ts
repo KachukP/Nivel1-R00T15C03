@@ -78,7 +78,8 @@ function Inicio() {
     console.log(GrupoA.Integrantes);
     console.log(GrupoA.Album);
     console.log(GrupoA.Banda);
-    //console.log(Album1);//Mostrar el contenido de (Album1)
+   //Modificacipón de la siguiente linea:
+    console.log(Album1);//Mostrar el contenido de (Album1)
 };
 
 Inicio();
